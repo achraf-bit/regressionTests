@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Header Stepper</name>
+   <tag></tag>
+   <elementGuidId>1ff51a63-eb61-4182-8df6-1d694c10162c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='formStatusBar-wf']//app-progress-stepper</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#formStatusBar-wf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>90bde5a9-9d21-43b6-b862-04e5477300b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formStatusBar-wf</value>
+      <webElementGuid>93c9f564-59e6-42d4-81eb-1237537e3189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>statusbar-content ng-star-inserted</value>
+      <webElementGuid>7e9b652b-bf8b-4536-a562-908578cba697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Completed  Transport on going  Waiting for pick up </value>
+      <webElementGuid>54c91899-5ce8-4444-bdd6-8476de578e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formStatusBar-wf&quot;)</value>
+      <webElementGuid>da26e0ff-b4f2-46fe-bf59-bd7ed8bf81e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='formStatusBar-wf']</value>
+      <webElementGuid>8739aa83-3911-4759-92ae-01a38a4d85e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-details/div/div/div/app-form-statusbar/div/div</value>
+      <webElementGuid>23d5ddc8-5121-47c8-9a75-954101f0196e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::div[8]</value>
+      <webElementGuid>8e89b915-0722-41fc-9a21-d7c78a41e7e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts'])[1]/following::div[8]</value>
+      <webElementGuid>7760a6d4-0207-4c7a-84aa-9ec79e5f248d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-form-statusbar/div/div</value>
+      <webElementGuid>86037838-9f13-4534-874c-97726a2a59cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'formStatusBar-wf' and (text() = ' Completed  Transport on going  Waiting for pick up ' or . = ' Completed  Transport on going  Waiting for pick up ')]</value>
+      <webElementGuid>6a175d84-afee-4b5f-9b1a-d3b3dc4f9490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

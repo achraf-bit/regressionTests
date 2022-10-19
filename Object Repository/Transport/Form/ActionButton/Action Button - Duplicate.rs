@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Action Button - Duplicate</name>
+   <tag></tag>
+   <elementGuidId>fd6477d3-e951-4ee1-b2ae-bc2071e19c1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='actionbutton-duplicate-tr']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actionbutton-duplicate-tr > div.content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b077af5-5617-4fea-bbb2-ee5d0a925887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>56c43852-40b1-4f7f-b8dc-e0d4c1b8f029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Duplicate </value>
+      <webElementGuid>349a80f0-e043-4d4b-a832-c5461473a9ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionbutton-duplicate-tr&quot;)/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>6bf175a3-dcba-4d52-96ad-5b4eda0909a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='actionbutton-duplicate-tr']/div</value>
+      <webElementGuid>e6a21266-11b9-4263-b5c6-3932cc111cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to pricing'])[1]/following::div[2]</value>
+      <webElementGuid>9858c837-b814-4eb6-8a09-f237694f953e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'actionbutton-duplicate-tr', '&quot;', ')/div[@class=', '&quot;', 'content', '&quot;', ']')])[1]/following::div[8]</value>
+      <webElementGuid>2180a85c-1d75-466b-9bbd-1ef4d97bfd7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>07a5d0ae-bf68-4ede-8a9a-0122f5ba44c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div</value>
+      <webElementGuid>bb28864a-4714-4ca5-a734-f5d25d3d95f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Duplicate ' or . = ' Duplicate ')]</value>
+      <webElementGuid>db96525a-da61-41a1-99b9-82c61dcd432d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

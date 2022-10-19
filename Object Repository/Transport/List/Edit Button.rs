@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit Button</name>
+   <tag></tag>
+   <elementGuidId>8050dcad-2d6f-424e-a0a0-3450d7452813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-transport-common-list//app-list-header-buttons//i[contains(@class, 'fa-edit')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-edit.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>162d1eb2-2fc9-4b8d-8282-44f4707d3e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>da4251b5-1431-42fc-b880-7313b7755906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit ng-star-inserted</value>
+      <webElementGuid>e113e312-7c08-4f82-a5c5-12272dbb625e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-pricing-list[@class=&quot;ng-star-inserted&quot;]/app-transport-common-list[1]/div[@class=&quot;content_wrapper app-padding&quot;]/app-list-header-buttons[1]/div[@class=&quot;ag-header-buttons&quot;]/div[@class=&quot;header-buttons&quot;]/div[@class=&quot;header-buttons__buttons ng-star-inserted&quot;]/i[@class=&quot;fa fa-edit ng-star-inserted&quot;]</value>
+      <webElementGuid>230b0c7c-a23e-4e58-9fc8-bc328731c4f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-pricing-list/app-transport-common-list/div/app-list-header-buttons/div/div/div/i</value>
+      <webElementGuid>319a0078-2919-4113-a9be-23e1df91e4c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>547d2d89-3fdc-41ea-8ae8-44208824a5bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'View']</value>
+      <webElementGuid>7e60a584-551d-4cfa-8ab0-971ab8e036d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

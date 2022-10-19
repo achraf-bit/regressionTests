@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search by term</name>
+   <tag></tag>
+   <elementGuidId>05a583d1-4832-4a01-9314-f0d9370c55dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'ag-header-buttons')]//input[@type = 'text' and @placeholder = 'Search by term']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>205e4d07-adee-4148-a2e0-3f0cfc31c8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>35fb93bc-40e1-43ef-ae38-64e021e35805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-star-inserted</value>
+      <webElementGuid>bcd961b2-51db-46ad-a171-07fa9d9b4453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by term</value>
+      <webElementGuid>bcf1bd66-5174-47b1-ac4c-82f34d965baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-pricing-list[@class=&quot;ng-star-inserted&quot;]/app-transport-common-list[1]/div[@class=&quot;content_wrapper app-padding&quot;]/app-list-header-buttons[1]/div[@class=&quot;ag-header-buttons&quot;]/div[@class=&quot;header-buttons&quot;]/input[@class=&quot;form-control ng-star-inserted&quot;]</value>
+      <webElementGuid>d36e992e-2930-4eb6-bf49-b0825cfa9df9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>57612855-c3c5-439a-9b8b-6b3c96538c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-pricing-list/app-transport-common-list/div/app-list-header-buttons/div/div/input</value>
+      <webElementGuid>d2d62272-322d-435a-9abf-916504e9d425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>b486e5ca-61fc-47f6-a69f-0a686bda321b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search by term']</value>
+      <webElementGuid>1190e8f8-6a3c-40b7-876a-0d286ecb4404</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

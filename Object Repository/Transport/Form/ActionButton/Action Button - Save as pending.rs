@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Action Button - Save as pending</name>
+   <tag></tag>
+   <elementGuidId>6bc5fa04-375c-46ba-bce1-64506d79384e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='actionbutton-create-draft']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actionbutton-create-draft</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc1112f7-aa98-49d3-92db-eb0db1702a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-xs btn-primary ng-star-inserted</value>
+      <webElementGuid>b9bae488-06ff-4f91-a530-2e520b5e1a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionbutton-create-draft</value>
+      <webElementGuid>83fa6625-3685-4dd3-abac-9af345c5080d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save as pending</value>
+      <webElementGuid>befbd47e-e4fc-4853-afe1-eeafbaa59193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionbutton-create-draft&quot;)</value>
+      <webElementGuid>7b054eab-1c12-4cdb-ab51-ef7dd53ef072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='actionbutton-create-draft']</value>
+      <webElementGuid>1bdf1664-cb31-4fe1-8254-67f4d70ad055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-header']/app-header/div/app-action-bar/div/div[3]/app-action-buttons/div/div/button</value>
+      <webElementGuid>0f69ca85-a95b-47b2-a28a-92c73ffd8a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New transport request'])[1]/following::button[1]</value>
+      <webElementGuid>3fcb4929-a844-4a5a-8e3c-2a9ac0fc608e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/following::button[1]</value>
+      <webElementGuid>7a05a0ed-4824-462f-9b1a-58d9f2e3eb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ask quotation'])[1]/preceding::button[1]</value>
+      <webElementGuid>b0ae58bc-cea8-4768-8c73-c83a6d9b1366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>1f480108-eacf-4540-824e-3b27a1dd7e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'actionbutton-create-draft' and (text() = 'Save as pending' or . = 'Save as pending')]</value>
+      <webElementGuid>a6b572dd-87f6-4586-afd5-655168fcdb56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

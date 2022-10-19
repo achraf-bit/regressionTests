@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Header - Filter - Btn</name>
+   <tag></tag>
+   <elementGuidId>dde3ea39-d515-4241-ac19-be742759777b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-header-cell.ag-focus-managed.ag-column-hover > div.ag-floating-filter-button > button.ag-floating-filter-button-button > span.ag-icon.ag-icon-filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-transport-common-list//ag-grid-angular//div[@aria-rowindex=2]//*[contains(@class, 'ag-header-cell') and @aria-colindex = //app-transport-common-list//ag-grid-angular//*[contains(@class, 'ag-header-cell') and @col-id = 'status']/@aria-colindex]//button[@ref = 'eButtonShowMainFilter']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e5f3111-b786-418f-a270-29b8eb572d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-icon ag-icon-filter</value>
+      <webElementGuid>4fd60fc8-6551-44ae-859a-733676866163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>aeaa0a1f-adee-479e-ad83-32acc0edee87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>661ebfa1-6abc-41a0-afa4-d57c9620b932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-pricing-list[@class=&quot;ng-star-inserted&quot;]/app-transport-common-list[1]/div[@class=&quot;content_wrapper app-padding&quot;]/ag-grid-angular[@class=&quot;ag-theme-alpine&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr ag-keyboard-focus&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-header ag-focus-managed ag-pivot-off&quot;]/div[@class=&quot;ag-header-viewport&quot;]/div[@class=&quot;ag-header-container&quot;]/div[@class=&quot;ag-header-row ag-header-row-floating-filter&quot;]/div[@class=&quot;ag-header-cell ag-focus-managed ag-column-hover&quot;]/div[@class=&quot;ag-floating-filter-button&quot;]/button[@class=&quot;ag-floating-filter-button-button&quot;]/span[@class=&quot;ag-icon ag-icon-filter&quot;]</value>
+      <webElementGuid>987acc18-d998-44e3-a716-5330ef529713</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-pricing-list/app-transport-common-list/div/ag-grid-angular/div/div[2]/div[2]/div/div[2]/div/div[2]/div[4]/div[2]/button/span</value>
+      <webElementGuid>a7813708-da5b-4a3d-be00-eb21ac508dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/button/span</value>
+      <webElementGuid>87132136-82da-44e4-bce1-88a0330ec004</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

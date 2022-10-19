@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Action Button - Confirm quote</name>
+   <tag></tag>
+   <elementGuidId>4bd974e7-80a8-4059-87ee-d05a6aced19b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='actionbutton-confirm-quote']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actionbutton-confirm-quote</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ecbcd976-ecb1-477f-868d-fc50702cff1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-xs btn-primary ng-star-inserted</value>
+      <webElementGuid>27a60449-5575-4797-aa61-81fdd723a01a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionbutton-confirm-quote</value>
+      <webElementGuid>b111be74-01da-4b61-9659-507228220281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm quote</value>
+      <webElementGuid>09c5fa91-18db-4450-b57b-dde9aedf5c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionbutton-confirm-quote&quot;)</value>
+      <webElementGuid>67780fb4-2681-4321-b850-0cbdb507f28c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='actionbutton-confirm-quote']</value>
+      <webElementGuid>29dc963f-3172-4c54-a78f-abdc5df7c8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-header']/app-header/div/app-action-bar/div/div[3]/app-action-buttons/div/div[5]/button</value>
+      <webElementGuid>990d73d3-70b4-4c63-941b-850301b9d53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ask quotation'])[1]/following::button[1]</value>
+      <webElementGuid>86365a6a-6314-4fa8-ac72-8f287f242faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save as pending'])[1]/following::button[2]</value>
+      <webElementGuid>969a038b-4b72-4e71-b35a-fced608a692e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[1]</value>
+      <webElementGuid>3de2a264-2c77-49e6-8ee9-22e93de90711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>da6e3b44-7638-489f-b7f0-7ba982a129d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'actionbutton-confirm-quote' and (text() = 'Confirm quote' or . = 'Confirm quote')]</value>
+      <webElementGuid>9ac0e6fc-352b-462d-9dcc-75b7c8104f0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

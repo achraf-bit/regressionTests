@@ -1,0 +1,113 @@
+{
+  "keywordFileContentHash": "A7718E3DA9D4E021B75CCAEE79490E69",
+  "keywordClasses": [
+    {
+      "name": "modules.Transport",
+      "keywordMethods": [
+        {
+          "name": "openDashboardPricing",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openDashboardTransport",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openTrFromDashboard",
+          "parameters": [
+            {
+              "name": "trReference",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "openTrOnPricingUsingUrl",
+          "parameters": [
+            {
+              "name": "trId",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "openTrOnTransportUsingUrl",
+          "parameters": [
+            {
+              "name": "trId",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "clickDuplicateOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickSaveAsPendingOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "confirmFirstValorizedQuoteOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "askQuotationFirstCarrierOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "cancelTrOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getTrReferenceFromForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "fillCustomerReference",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

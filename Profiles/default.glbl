@@ -4,4 +4,24 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://e2e.chanel-esc.mytower.fr'</initValue>
+      <name>app_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'RoY/B8u3iefewiZcVmvnfw=='</initValue>
+      <name>superadmin_1_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'f.salaheddine@mytower.fr'</initValue>
+      <name>superadmin_1_user2name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'f.salaheddine@mytower.fr'</initValue>
+      <name>superadmin_1_username</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
