@@ -20,7 +20,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class Login {
+public class Login { 
 	@Keyword
 	def loginSuperAdmin() {
 		login(GlobalVariable.superadmin_1_username, GlobalVariable.superadmin_1_password)
