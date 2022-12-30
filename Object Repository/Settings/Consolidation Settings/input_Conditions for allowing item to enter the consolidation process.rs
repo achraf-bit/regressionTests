@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Conditions for allowing item to enter the consolidation process</name>
+   <tag></tag>
+   <elementGuidId>51c9401c-684c-4ce5-8fdf-5ad406ac3c3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.enabled-chk > input.ng-valid.ng-dirty.ng-touched</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=&quot;dfc-dyn-root--consolidation-rule-form--singleMatcherSpel&quot;]//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a35d4324-7d27-4098-adba-98e8ffc5a05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>db645236-f468-4e40-99cf-d01d81a5b772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-valid ng-dirty ng-touched</value>
+      <webElementGuid>3045100e-aed8-451c-9748-df32d7bce4a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-dyn-root--consolidation-rule-form--singleMatcherSpel&quot;)/app-spel-easy-input-df[@class=&quot;ng-star-inserted&quot;]/app-spel-easy-input[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;top-checkbox ng-star-inserted&quot;]/span[@class=&quot;enabled-chk&quot;]/input[@class=&quot;ng-valid ng-dirty ng-touched&quot;]</value>
+      <webElementGuid>129d7a82-874e-4a45-8367-19571489eded</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[29]</value>
+      <webElementGuid>9d44ac35-5a5d-4b24-9e4b-c9dfc7edda16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-dyn-root--consolidation-rule-form--singleMatcherSpel']/app-spel-easy-input-df/app-spel-easy-input/div/div/span/input</value>
+      <webElementGuid>cfae743a-f850-42cf-9329-4f2e79271839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/input</value>
+      <webElementGuid>b620e34c-3152-490d-8d0a-dcef7e518872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>531fa958-3f0d-4591-97bb-c66c381af691</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

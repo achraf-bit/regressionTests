@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update</name>
+   <tag></tag>
+   <elementGuidId>a2d45c37-d570-4373-b8d8-3212c5bab3ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-settings//button[text()[normalize-space() = &quot;Update&quot;] or text()[normalize-space() = &quot;Mettre à jour&quot;]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>3cd6e5e8-aca1-4566-91b4-a7142272b01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1669720525436</value>
+      <webElementGuid>c27b22ca-6dfb-4f0e-809e-d2acf0166251</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -57,6 +57,23 @@ public class Transport {
 	}
 
 	@Keyword
+	def accessToFirstTrDetails() {
+		WebUI.waitForElementVisible(findTestObject('Object Repository/Transport/List/First checkbox of list'), 0)
+		WebUI.check(findTestObject('Object Repository/Transport/List/First checkbox of list'))
+		WebUI.click(findTestObject('Transport/List/Edit Button'))
+		WebUI.verifyElementPresent(findTestObject('Object Repository/Pricing Page/Breadcrumbs/tr_Reference'),0)
+	}
+
+	@Keyword
+	def cancelTrAfterConfirmation() {
+		WebUI.click(findTestObject('Pricing Page/Breadcrumbs/button_Menu'))
+		WebUI.click(findTestObject('Pricing Page/Breadcrumbs/button_Cancel'))
+		WebUI.click(findTestObject('Home Page/Modal/button_Yes_Cancel'))
+		WebUI.waitForElementVisible(findTestObject('Pricing Page/Header/status_TR_Cancelled'), 0)
+		WebUI.verifyElementVisible(findTestObject('Pricing Page/Header/status_TR_Cancelled'))
+	}
+
+	@Keyword
 	def clickDuplicateOnTrForm() {
 		WebUI.waitForElementVisible(findTestObject('Transport/Form/ActionButton/Action Button - More'), 10)
 		WebUI.click(findTestObject('Transport/Form/ActionButton/Action Button - More'))

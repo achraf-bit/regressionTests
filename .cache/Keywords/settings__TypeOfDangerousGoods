@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "7003E20C56080E5DC359D705F54FE65D",
+  "keywordClasses": [
+    {
+      "name": "settings.TypeOfDangerousGoods",
+      "keywordMethods": [
+        {
+          "name": "addNewTypeOfDangerousGoods",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editTypeOfDangerousGoods",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteTypeOfDangerousGoods",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

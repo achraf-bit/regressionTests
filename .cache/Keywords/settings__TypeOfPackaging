@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "7A21460A721D7AD5315DAFB28253189C",
+  "keywordClasses": [
+    {
+      "name": "settings.TypeOfPackaging",
+      "keywordMethods": [
+        {
+          "name": "addNewTypeOfPackaging",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editTypeOfPackaging",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteTypeOfPackaging",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

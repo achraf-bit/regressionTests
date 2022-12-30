@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "2F4756331D95F5758BB86F48031B682B",
+  "keywordClasses": [
+    {
+      "name": "settings.AutomaticActions",
+      "keywordMethods": [
+        {
+          "name": "addNewAutomaticAction",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editAutomaticAction",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteAutomaticAction",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

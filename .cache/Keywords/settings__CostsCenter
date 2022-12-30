@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "D5696CECCCEB0FBC64B0C49466DB86D0",
+  "keywordClasses": [
+    {
+      "name": "settings.CostsCenter",
+      "keywordMethods": [
+        {
+          "name": "addNewCostCenter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editLastCostCenter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteLastCostCenter",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

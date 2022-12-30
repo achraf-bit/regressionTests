@@ -1,0 +1,91 @@
+{
+  "keywordFileContentHash": "0AEDAA845359FD8AB3926656E4E43A7A",
+  "keywordClasses": [
+    {
+      "name": "documents.Documents",
+      "keywordMethods": [
+        {
+          "name": "uploadDocument",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportDocument",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportAtrTemplate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportAttestationDeVenteTemplate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportBonDeChargementTemplate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportCertificatOrigineTemplate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportDDT_EU_Template",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportDDT_EXTRA_EU_Template",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportDDT_ITALIE_Template",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportDDT_ITALY_SB_Template",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportEUR1_Template",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportPackingListTemplate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportShippingInstructionTemplate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportSRITemplate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "exportStatementTemplate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyCertificatOriginExpected",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>first_Address_Proposal</name>
+   <tag></tag>
+   <elementGuidId>eca052fb-dd42-4e6a-a302-09619469b3b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-address-picker//div[@class=&quot;card ng-star-inserted&quot;][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d664a93-1e99-4952-823e-0d64cc0dc83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card ng-star-inserted</value>
+      <webElementGuid>267eebef-393c-4a26-a331-4e3f95fd7e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AUSTRALIA EVENTS70 CASTLEREAGH STREETSIDNEYAustralia</value>
+      <webElementGuid>5e38b364-0f7f-4da1-bc35-01e9017a034d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;transport-details-root loader-content-container transparent-dark-loader&quot;]/div[@class=&quot;m-details-form ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right&quot;]/app-panel-right[1]/app-form-dynamic-panel[1]/div[@class=&quot;form-dynamic-panel ng-star-inserted&quot;]/app-address-picker[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;address-list panel-root opened&quot;]/div[@class=&quot;address-wrapper&quot;]/div[@class=&quot;card ng-star-inserted&quot;]</value>
+      <webElementGuid>f6cff218-8afa-49cc-bf19-a5ee08d571d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-details/div/div/div[2]/div[3]/app-panel-right/app-form-dynamic-panel/div/app-address-picker/div/div[2]/div</value>
+      <webElementGuid>7000e890-f784-4ee3-bd35-8f69cf26a01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an address:'])[1]/following::div[3]</value>
+      <webElementGuid>273238cf-d25d-4348-acb4-7ec622655946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[4]/following::div[11]</value>
+      <webElementGuid>b53dd23d-2f6b-4310-a506-f755e08e1445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-address-picker/div/div[2]/div</value>
+      <webElementGuid>a1861353-0538-42ba-8fdf-29a157a4155a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AUSTRALIA EVENTS70 CASTLEREAGH STREETSIDNEYAustralia' or . = 'AUSTRALIA EVENTS70 CASTLEREAGH STREETSIDNEYAustralia')]</value>
+      <webElementGuid>d64973ad-6f9d-4f27-ad95-ef9b013b08d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

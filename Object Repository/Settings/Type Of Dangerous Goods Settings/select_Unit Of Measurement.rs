@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Unit Of Measurement</name>
+   <tag></tag>
+   <elementGuidId>11a16996-ac94-4273-b98e-4438a29de681</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dfc-item--settings-ags-form--unitOfMeasurement > #dfc-item--settings-ags-form--unitOfMeasurement</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='dfc-item--settings-ags-form--unitOfMeasurement']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>22adaa5b-451f-4a35-86ae-3c878634b490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dfc-item--settings-ags-form--unitOfMeasurement</value>
+      <webElementGuid>8f624382-06b8-4b34-ae61-3c61f5fe11fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>unitOfMeasurement</value>
+      <webElementGuid>4ad21ae4-4bef-4ca8-955f-639e9519c2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-valid ng-star-inserted ng-touched ng-dirty</value>
+      <webElementGuid>0feeaf95-869b-49a1-b160-32f0bcb4a95a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cubic Meters</value>
+      <webElementGuid>674b022a-1708-4d0f-b532-54fba1357ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-root--settings-ags-form--unitOfMeasurement&quot;)/div[@id=&quot;dfc-item--settings-ags-form--unitOfMeasurement&quot;]/select[@id=&quot;dfc-item--settings-ags-form--unitOfMeasurement&quot;]</value>
+      <webElementGuid>c4518e0d-fa4c-486f-ba1e-06d779c0f6d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='dfc-item--settings-ags-form--unitOfMeasurement']</value>
+      <webElementGuid>6b244668-408c-4833-a5a6-c613c091a075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-item--settings-ags-form--unitOfMeasurement']/select</value>
+      <webElementGuid>6a067521-2875-45b7-af44-da2e6dcbd239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit of measurement'])[3]/following::select[1]</value>
+      <webElementGuid>2611499a-c926-45f4-b2f9-88b228c10a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Id number'])[2]/following::select[1]</value>
+      <webElementGuid>70e1fa4c-8965-4824-be96-0993e721977d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dangerous environment'])[2]/preceding::select[1]</value>
+      <webElementGuid>a1c473f5-f0c0-4ac4-929b-4e0a2a90777c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oui'])[2]/preceding::select[1]</value>
+      <webElementGuid>1cb250c3-4b84-489e-a46a-4f31cfd0bc97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>47fb44d8-1aa7-46df-9643-11f97c9c06ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'dfc-item--settings-ags-form--unitOfMeasurement' and @name = 'unitOfMeasurement' and (text() = 'Cubic Meters' or . = 'Cubic Meters')]</value>
+      <webElementGuid>f8a21678-7cff-48be-b5bb-7cd0cd8560fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

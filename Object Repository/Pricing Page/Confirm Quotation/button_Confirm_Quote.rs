@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm_Quote</name>
+   <tag></tag>
+   <elementGuidId>f2ee28ab-31a3-44b3-8418-e92737a44c94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='actionbutton-confirm-quote']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actionbutton-confirm-quote > span.sidebar-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1854c56c-c066-4215-9422-003e28f0c3de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-title</value>
+      <webElementGuid>9580f1d6-d679-4e30-878a-19a3bbc9a767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm quote</value>
+      <webElementGuid>ff8f9194-04f9-43e8-8135-5d6144f41b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionbutton-confirm-quote&quot;)/span[@class=&quot;sidebar-title&quot;]</value>
+      <webElementGuid>f6bdb6d0-137e-4d08-8958-a704d3ff8751</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='actionbutton-confirm-quote']/span[2]</value>
+      <webElementGuid>23e4bb8e-9b20-4c4b-9557-bde7b4704515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::span[2]</value>
+      <webElementGuid>3e23c37f-3857-4101-987c-04f6df42e8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESC-A16877 (ref1662997025051)'])[1]/following::span[4]</value>
+      <webElementGuid>875f3ea0-4624-46bc-ac24-c1c8865b5fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[2]</value>
+      <webElementGuid>2051810b-30b6-40cb-bb46-1be00863f24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[8]</value>
+      <webElementGuid>bc0c1f7b-cb75-4ca3-9754-db6462968787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm quote']/parent::*</value>
+      <webElementGuid>9c3293bd-2d62-4456-ac2b-82138a2c0346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span[2]</value>
+      <webElementGuid>33024134-d642-4a29-a856-243800c01413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Confirm quote' or . = 'Confirm quote')]</value>
+      <webElementGuid>12a194c6-4ac3-48d1-8f56-77a2332763ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

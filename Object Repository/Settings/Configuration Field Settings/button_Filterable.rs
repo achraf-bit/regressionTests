@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Filterable</name>
+   <tag></tag>
+   <elementGuidId>5b5aa4d2-d1b7-4a6d-b7d1-ca8acf6c3458</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='dfc-dyn-root--field-configuration-form--visibility']/app-visibility-section//p-inputswitch//span)[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>fd56d984-7f62-4268-9463-c9adde2dedc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1670495681069</value>
+      <webElementGuid>f8b67cf9-0c26-4962-bdba-32cd1b7e2eb0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

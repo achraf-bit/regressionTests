@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Invoice_Currency Euro</name>
+   <tag></tag>
+   <elementGuidId>2aa2e23a-3822-4460-9a58-ef64dd5ce781</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id=&quot;dfc-item--transport-form--currencyInvoice&quot;]/option[contains(text(),'EUR')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>ba645d69-c098-4308-b07a-cc4fcd214352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1665064368280</value>
+      <webElementGuid>1ac2e201-3c49-4fef-b2d6-f3a0ca559712</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

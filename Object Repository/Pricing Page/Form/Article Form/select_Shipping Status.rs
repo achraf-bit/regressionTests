@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Shipping Status</name>
+   <tag></tag>
+   <elementGuidId>570e09a3-25c2-491e-b243-10fa62271be5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dfc-item--transport-unit-content-form--shipping_status_unit > #dfc-item--transport-unit-content-form--shipping_status_unit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='dfc-item--transport-unit-content-form--shipping_status_unit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>731a89ae-6ffd-438e-a7b6-6f518eb86618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dfc-item--transport-unit-content-form--shipping_status_unit</value>
+      <webElementGuid>fdb0db51-8670-46e6-8df8-2f72027ed24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>shipping_status_unit</value>
+      <webElementGuid>0495e02f-a763-45fb-b985-25aaf508d062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <webElementGuid>2ec74592-9b31-400e-9c60-1ab75feca8fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>non chargé</value>
+      <webElementGuid>743e4024-b77e-4d1f-8a30-8f2ab70299a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-root--transport-unit-content-form--shipping_status_unit&quot;)/div[@id=&quot;dfc-item--transport-unit-content-form--shipping_status_unit&quot;]/select[@id=&quot;dfc-item--transport-unit-content-form--shipping_status_unit&quot;]</value>
+      <webElementGuid>3d79442f-84ff-490f-95bb-4db659245946</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='dfc-item--transport-unit-content-form--shipping_status_unit']</value>
+      <webElementGuid>ab783aab-ff07-4662-b9ec-9ff3d5830cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-item--transport-unit-content-form--shipping_status_unit']/select</value>
+      <webElementGuid>03a27fb2-bce7-4daf-bb62-064a37ec97bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping status'])[2]/following::select[1]</value>
+      <webElementGuid>023eb85e-24c1-4b17-9be4-1a5e753b3aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Itemdescription'])[2]/following::select[1]</value>
+      <webElementGuid>25c3477c-cc04-4ba5-8272-bb6fafb14386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Net Weight'])[2]/preceding::select[1]</value>
+      <webElementGuid>6876e83d-819b-401d-ad18-15a33274c01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight (Kg)'])[1]/preceding::select[1]</value>
+      <webElementGuid>5b36f0e7-b685-4a11-9b67-629dc295abb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//df-form-control[9]/div/div/select</value>
+      <webElementGuid>a852df91-9781-42f3-9a73-01bcfcad0745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'dfc-item--transport-unit-content-form--shipping_status_unit' and @name = 'shipping_status_unit' and (text() = 'non chargé' or . = 'non chargé')]</value>
+      <webElementGuid>7443fa61-a157-49d9-b791-31f1fff4dd9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

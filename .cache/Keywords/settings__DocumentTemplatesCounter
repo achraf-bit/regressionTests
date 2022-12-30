@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "AA2CF8FC742822312726EE54FE381C4E",
+  "keywordClasses": [
+    {
+      "name": "settings.DocumentTemplatesCounter",
+      "keywordMethods": [
+        {
+          "name": "addNewDocumentTemplatesCounter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editDocumentTemplatesCounter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteDocumentTemplatesCounter",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

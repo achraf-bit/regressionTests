@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "AFB54FBA6EA7A67BCF6ADCC3D58AF95D",
+  "keywordClasses": [
+    {
+      "name": "settings.UnitOfMeasure",
+      "keywordMethods": [
+        {
+          "name": "addUnitOfMeasure",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editUnitOfMeasure",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteUnitOfMeasure",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

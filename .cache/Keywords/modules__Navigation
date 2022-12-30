@@ -1,0 +1,70 @@
+{
+  "keywordFileContentHash": "3E734DFDA586CA014A55E88386659773",
+  "keywordClasses": [
+    {
+      "name": "modules.Navigation",
+      "keywordMethods": [
+        {
+          "name": "openDashboardPricing",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openDashboardTransport",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openTrFromDashboard",
+          "parameters": [
+            {
+              "name": "trReference",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "clickDuplicateOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickSaveAsPendingOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "confirmFirstValorizedQuoteOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "askQuotationFirstCarrierOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "cancelTrOnTrForm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getTrReference",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

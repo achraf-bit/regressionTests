@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "72BF7E8C83D5380BEF11296E96E4287A",
+  "keywordClasses": [
+    {
+      "name": "transport.Workflow",
+      "keywordMethods": [
+        {
+          "name": "duplicateTrFromDashboard",
+          "parameters": [
+            {
+              "name": "trRef",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

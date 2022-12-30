@@ -1,0 +1,51 @@
+{
+  "keywordFileContentHash": "AA94C732231BA1FDBC1E074B7EA10750",
+  "keywordClasses": [
+    {
+      "name": "documents.DocumentTypes",
+      "keywordMethods": [
+        {
+          "name": "verifyShippingInstruction",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyCertificatOrigine",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyProformaSp",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyDeliveryNote",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyCites",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyAWB",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verfiyCMR",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verfiyOther",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "BA950F27B53F466425D28B4A7FC1E808",
+  "keywordClasses": [
+    {
+      "name": "settings.TypeOfFlow",
+      "keywordMethods": [
+        {
+          "name": "addNewTypeOfFlow",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editTypeOfFlow",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteTypeOfFlow",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

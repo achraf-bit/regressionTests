@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select a transport request to add it to the consolidation</name>
+   <tag></tag>
+   <elementGuidId>fa990bfd-61f3-4d21-80cb-b0eb33868829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dfc-dyn-root--transport-form--consolidationInitials']/app-content-step-consolidation//div[@class=&quot;ng-input&quot;]//input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ng-select.ng-select.ng-select-single.ng-select-searchable.ng-select-clearable.ng-pristine.ng-valid.ng-select-bottom.ng-touched.ng-select-focused > div.ng-select-container > span.ng-arrow-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7d078ae-9f3c-410c-be89-bf5f0f27cd89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-arrow-wrapper</value>
+      <webElementGuid>ce651fdd-8055-4426-a99e-0610d8021047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-dyn-root--transport-form--consolidationInitials&quot;)/app-content-step-consolidation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;step-consolidation-root ng-star-inserted&quot;]/div[@class=&quot;add-tr-container ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ng-select[@class=&quot;ng-select ng-select-single ng-select-searchable ng-select-clearable ng-pristine ng-valid ng-select-bottom ng-touched ng-select-focused&quot;]/div[@class=&quot;ng-select-container&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
+      <webElementGuid>8308b880-de44-4a11-a6b8-1b05ff7621d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-dyn-root--transport-form--consolidationInitials']/app-content-step-consolidation/div/div/div[2]/ng-select/div/span</value>
+      <webElementGuid>39ff2b1f-4f34-44bc-aabb-48c1ca9f1857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a transport request from the list to add it to the consolidation'])[1]/following::span[1]</value>
+      <webElementGuid>5bc1d20e-71cd-4b5e-9fa7-cd104428b9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consolidation'])[2]/following::span[1]</value>
+      <webElementGuid>4818d02d-fc9e-4113-81df-5f08eace7e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(ref1665411018591)'])[1]/preceding::span[2]</value>
+      <webElementGuid>d0737ee2-055e-4ddd-b3ca-47918196f397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/ng-select/div/span</value>
+      <webElementGuid>84d48d83-005e-4131-9831-6890783eda43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "CEF12B1BDF6680A992319E4982C6F261",
+  "keywordClasses": [
+    {
+      "name": "settings.DocumentTypes",
+      "keywordMethods": [
+        {
+          "name": "addNewDocumentType",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editDocumentType",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteDocumentType",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

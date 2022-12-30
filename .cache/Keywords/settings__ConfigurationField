@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "7BEFAB0A366A1D1F64E808B2D828E744",
+  "keywordClasses": [
+    {
+      "name": "settings.ConfigurationField",
+      "keywordMethods": [
+        {
+          "name": "addConfigurationField",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editConfigurationField",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteConfigurationField",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sortable</name>
+   <tag></tag>
+   <elementGuidId>00b8ae4f-ac3b-4ee7-9d49-e0cf559b6d9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='dfc-dyn-root--field-configuration-form--visibility']/app-visibility-section//p-inputswitch//span)[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>cddad43f-0997-4d04-a097-392e926b6569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1670495664284</value>
+      <webElementGuid>605a65a6-d038-4308-9682-6e54efaf29cd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

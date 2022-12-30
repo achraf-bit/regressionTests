@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "23957EA8238602AC5B345460B2D59963",
+  "keywordClasses": [
+    {
+      "name": "settings.Address",
+      "keywordMethods": [
+        {
+          "name": "createNewAddress",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteAnAddress",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editAnAddress",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

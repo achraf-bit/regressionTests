@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_Tracking level (By transport)</name>
+   <tag></tag>
+   <elementGuidId>99019b26-97e9-4387-9abb-047a3d5e26de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-radiobutton-icon.ui-clickable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class=&quot;ui-radiobutton-icon ui-clickable&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>696c59ee-ce66-43ff-9629-74a7c5c197e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-radiobutton-icon ui-clickable</value>
+      <webElementGuid>9b45f2dd-9346-444b-b063-51b98098811a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-config-type-flux[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;config-incoterm ng-star-inserted&quot;]/div[@class=&quot;trpl-zone-settings-root ng-star-inserted&quot;]/form[@class=&quot;generic-default ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/div[@class=&quot;form-content col-sm-6&quot;]/div[@class=&quot;list-psl col-md-12 col-sm-12 col-xs-12 form-group padding-top-10&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12 padding-0&quot;]/div[@class=&quot;padding-left-top ng-star-inserted&quot;]/p-radiobutton[@class=&quot;col-md-12 padding-0 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ui-radiobutton ui-widget&quot;]/div[@class=&quot;ui-radiobutton-box ui-widget ui-state-default&quot;]/span[@class=&quot;ui-radiobutton-icon ui-clickable&quot;]</value>
+      <webElementGuid>2d50430c-6070-42bb-823c-50aecf728be7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-config-type-flux/div/div/form/div[2]/div[2]/div/div/p-radiobutton/div/div[2]/span</value>
+      <webElementGuid>a658f135-84c7-432b-afbd-f5825a1c1f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-radiobutton/div/div[2]/span</value>
+      <webElementGuid>b051940f-16ba-4161-98de-1285f88e5fa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

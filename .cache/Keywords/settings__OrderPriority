@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "FB07A0B4E245221CE1E196AF17AB7339",
+  "keywordClasses": [
+    {
+      "name": "settings.OrderPriority",
+      "keywordMethods": [
+        {
+          "name": "addNewOrderPriority",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editOrderPriority",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteOrderPriority",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

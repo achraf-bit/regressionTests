@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_Reference</name>
+   <tag></tag>
+   <elementGuidId>2778c22e-0818-45bb-952c-2313efd641bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='breadcrumb-tr-reference']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#breadcrumb-tr-reference > a.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f402803-e5d5-49f6-8474-c14b89cd3871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>30b5f870-ba2f-4270-8453-df4a78ecac7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ESC-A16846 (test_220906_2) </value>
+      <webElementGuid>1ecdcd3c-3438-4db8-9f02-361d45554afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;breadcrumb-tr-reference&quot;)/a[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>7e7bb800-38c3-4aba-8c47-ea2c2131c955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='breadcrumb-tr-reference']/a</value>
+      <webElementGuid>53f767ca-4d21-4063-a912-006980e3837f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ESC-A16846 (test_220906_2)')]</value>
+      <webElementGuid>875b46ff-5ab4-4a6a-8bc4-bbb5e37cb46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/following::a[1]</value>
+      <webElementGuid>d0a618d6-3a93-414c-8872-68014d7028c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::a[3]</value>
+      <webElementGuid>4af9c70a-7593-420d-b99c-c798255ff43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::a[1]</value>
+      <webElementGuid>e1acd1ed-b7b0-4f0e-b667-14a60aca6996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm pending'])[1]/preceding::a[1]</value>
+      <webElementGuid>f8954fb4-f08e-4677-960a-ff5c98487c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ESC-A16846 (test_220906_2)']/parent::*</value>
+      <webElementGuid>54911170-2f65-479c-86bc-640519d9545f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[2]/a</value>
+      <webElementGuid>43eabae4-ad37-443a-925a-452bc8b6601b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' ESC-A16846 (test_220906_2) ' or . = ' ESC-A16846 (test_220906_2) ')]</value>
+      <webElementGuid>bd096e8a-3ea0-4ef1-bd19-4dc628c19fd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

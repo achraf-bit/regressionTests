@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Error message</name>
+   <tag></tag>
+   <elementGuidId>59a880b3-4e3b-413a-bee5-87991e0d0b1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.textarea.ng-pristine.ng-valid.ng-touched</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dfc-dyn-root--edit-status-transition-form--conditions']/app-transition-conditions//div[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>36509bb8-91c5-481a-bac3-c79c0e74b5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>062e9f6a-ff55-4992-80ed-304dd366561a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textarea ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>9e465d2f-880c-4423-9882-7a9836b7611a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-dyn-root--edit-status-transition-form--conditions&quot;)/app-transition-conditions[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;transition-flex df-form-control-root big-content&quot;]/div[@class=&quot;row-flex ng-star-inserted&quot;]/div[@class=&quot;d-flex-ai-c generic-inputs__style&quot;]/textarea[@class=&quot;textarea ng-pristine ng-valid ng-touched&quot;]</value>
+      <webElementGuid>03a68e03-7a13-4576-bcc9-542331a46627</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-dyn-root--edit-status-transition-form--conditions']/app-transition-conditions/div/div[3]/div[2]/textarea</value>
+      <webElementGuid>7faef2de-afe2-4ddb-b30d-002df3e402d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error message :'])[1]/following::textarea[2]</value>
+      <webElementGuid>b548ddbd-8de3-4377-9f79-f4faed30a9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condition :'])[1]/following::textarea[2]</value>
+      <webElementGuid>94991223-5f4d-47c3-bfef-15169b3d017f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>138e9e3b-65cd-4bb3-b045-a4b950b32d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>0f9ff885-7b8b-4230-888c-25b20b182452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/textarea</value>
+      <webElementGuid>8659f609-3871-401d-8ddd-e7bd6774e37c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

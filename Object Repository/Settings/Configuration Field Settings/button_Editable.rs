@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Editable</name>
+   <tag></tag>
+   <elementGuidId>4e311dd3-e6af-48dd-8866-a00506343c0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='dfc-dyn-root--field-configuration-form--visibility']/app-visibility-section//p-inputswitch//span)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>e4c026d0-32d6-4d06-909b-1d8af34d61cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1670495642432</value>
+      <webElementGuid>a33b5dcd-aa52-4118-97bf-2aade9271c12</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "7AFEEE60E42FF3550AE48AAF34DDB507",
+  "keywordClasses": [
+    {
+      "name": "settings.MappingTrackingCodes",
+      "keywordMethods": [
+        {
+          "name": "addNewMappingTrackingCode",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editMappingTrackingCode",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteMappingTrackingCode",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

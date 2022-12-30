@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "75ABF6F0A1AEB25483A00D8CD86851E6",
+  "keywordClasses": [
+    {
+      "name": "settings.TypeOfGoods",
+      "keywordMethods": [
+        {
+          "name": "addTypeOfGoods",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editTypeOfGoods",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteTypeOfGoods",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,101 @@
+{
+  "keywordFileContentHash": "D93266AE1447BEEFA523D906BCC361E1",
+  "keywordClasses": [
+    {
+      "name": "modules.Pricing",
+      "keywordMethods": [
+        {
+          "name": "CreateNewTr",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "accessToPricing",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getTrReference",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "fillCustomerReference",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "accessToFirstTrDetails",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "saveAsPending",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "duplicateTr",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "selectCarrier",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "selectCarrierWithValorization",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "confirmPending",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyAlert",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addQuotation",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "confirmQuotation",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "consolidateTr",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addTrToConsolidationPropositions",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "fillRequiredFieldAfterConsolidation",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addMask",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "saveTR",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

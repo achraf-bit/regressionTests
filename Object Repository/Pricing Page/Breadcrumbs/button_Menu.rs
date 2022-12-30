@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Menu</name>
+   <tag></tag>
+   <elementGuidId>4c07078a-6980-47bb-be3a-6a4bc8547cad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='actionButton-collapsedMenuButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-bars</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92080a31-c66b-4940-afae-77e7594b6d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bars</value>
+      <webElementGuid>e540ab05-b4aa-403b-9b1f-d8e02ddf6195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionButton-collapsedMenuButton&quot;)/span[@class=&quot;fa fa-bars&quot;]</value>
+      <webElementGuid>31cb33b8-0650-4be8-ad9f-9cff456c8e21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='actionButton-collapsedMenuButton']/span</value>
+      <webElementGuid>4d4f275d-1ba9-46b7-84d4-9b99b7f92f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/button/span</value>
+      <webElementGuid>dbb9216a-4c50-406c-a247-1e09817f8eae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

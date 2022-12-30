@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Template</name>
+   <tag></tag>
+   <elementGuidId>7b94e393-bf58-46c3-b1cd-6943058bea8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-details/div[2]/app-modal-export-doc-by-template/div/div/div/div/form/div[2]/div/div[2]/ng-select/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ng-select[name=&quot;selectedTemplate&quot;] > div.ng-select-container > span.ng-arrow-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8d1e7ac-5800-4b6e-8aef-91700c959146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-arrow-wrapper</value>
+      <webElementGuid>ae4b7e01-fb09-49c8-8f08-44fa09d0950f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-modal-export-doc-by-template[1]/div[@class=&quot;modal modal-backdrop modal-export-doc-tpl-root loader-content-container transparent-dark-loader&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;modal-body overflow-visible&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-9 col-md-8 text-left&quot;]/ng-select[@class=&quot;ng-select ng-select-single ng-select-searchable ng-select-clearable ng-untouched ng-pristine ng-valid ng-star-inserted ng-select-focused ng-select-opened ng-select-bottom&quot;]/div[@class=&quot;ng-select-container&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
+      <webElementGuid>ef9c4ef8-85e0-49ed-bdcc-eb2aa78702f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-details/div[2]/app-modal-export-doc-by-template/div/div/div/div/form/div[2]/div/div[2]/ng-select/div/span</value>
+      <webElementGuid>40e6db9c-1dae-40d2-b56f-ba6f2d1ecf2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select template ...'])[1]/following::span[1]</value>
+      <webElementGuid>31c34d08-4643-4058-8950-d59440267d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template'])[1]/following::span[1]</value>
+      <webElementGuid>67643274-2696-41a2-b499-85cf0cc2f71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATR'])[1]/preceding::span[2]</value>
+      <webElementGuid>d4eb5c8a-caa4-4480-a4c1-2fdc4ac35159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attestation de Vente'])[1]/preceding::span[2]</value>
+      <webElementGuid>7246cfca-e200-4bb3-9198-92310b8a7e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/ng-select/div/span</value>
+      <webElementGuid>4f760d89-fc45-4e5f-9517-37c805e98bfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

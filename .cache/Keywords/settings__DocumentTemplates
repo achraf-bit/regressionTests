@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "A1BF1397066664E0951D94D2F5B4A308",
+  "keywordClasses": [
+    {
+      "name": "settings.DocumentTemplates",
+      "keywordMethods": [
+        {
+          "name": "addNewDocumentTemplates",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editDocumentTemplates",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteDocumentTemplates",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Settings</name>
+   <tag></tag>
+   <elementGuidId>d790141c-6a16-4882-a582-37a4587c124a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Settings']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-cog</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ae48b455-1a51-4f84-b43a-ae619e24334f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cog</value>
+      <webElementGuid>181774ce-abf6-4a16-9ada-5f3116e3bb94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>5732d654-e73f-40f0-9275-985215af9c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Settings&quot;)/span[@class=&quot;fa fa-cog&quot;]</value>
+      <webElementGuid>fb4a209a-9cb8-4c36-8af5-c7b3f0718398</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='Settings']/span</value>
+      <webElementGuid>af2424d0-1b45-48b1-8694-634b098bd9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>bb2db64c-1d36-4b19-a386-d3b9ff27e571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Settings']</value>
+      <webElementGuid>b7f23b77-177d-4ace-ae2f-48f9bc26a348</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

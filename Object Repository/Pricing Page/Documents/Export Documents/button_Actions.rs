@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Actions</name>
+   <tag></tag>
+   <elementGuidId>7d0c4ddc-050a-43f0-84c6-c0cfd086cc99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-details/div[2]/app-modal-export-doc-by-template/div/div/div/div/form/div[2]/div[3]/div[2]/div[2]/ng-select/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ng-select[name=&quot;listTypeDocuments&quot;] > div.ng-select-container > span.ng-arrow-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da2a7390-0902-4446-91a0-ea108dc979c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-arrow-wrapper</value>
+      <webElementGuid>91c37d77-8bd8-458d-a93e-0b27a567a630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-modal-export-doc-by-template[1]/div[@class=&quot;modal modal-backdrop modal-export-doc-tpl-root loader-content-container transparent-dark-loader&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[1]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;modal-body overflow-visible&quot;]/div[@class=&quot;row margin-top-10&quot;]/div[@class=&quot;col-xs-9 col-md-8 text-left&quot;]/div[2]/ng-select[@class=&quot;margin-top-5 margin-left-20 ng-select ng-select-single ng-select-searchable ng-select-clearable ng-pristine ng-valid ng-star-inserted ng-select-focused ng-select-bottom ng-touched&quot;]/div[@class=&quot;ng-select-container&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
+      <webElementGuid>7e0f9b68-4816-4673-babe-7b404827fbaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-details/div[2]/app-modal-export-doc-by-template/div/div/div/div/form/div[2]/div[3]/div[2]/div[2]/ng-select/div/span</value>
+      <webElementGuid>49874a36-a53a-4345-a38f-dcb7c3d037bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select documents type...'])[1]/following::span[1]</value>
+      <webElementGuid>590e2488-8ad5-41cb-9049-cf2c033d261d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/preceding::span[2]</value>
+      <webElementGuid>0c28fcea-c713-432c-971c-26e9592a1ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[2]</value>
+      <webElementGuid>91fefda9-1872-46d7-909c-5cadb9293c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ng-select/div/span</value>
+      <webElementGuid>e09d4ee3-2f55-4dfc-9e95-ba5309f72746</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

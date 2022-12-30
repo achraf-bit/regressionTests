@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "604E243C0E846BE1E3A1794574EE164B",
+  "keywordClasses": [
+    {
+      "name": "settings.RefusalReason",
+      "keywordMethods": [
+        {
+          "name": "addNewRefusalReason",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editRefusalReason",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteRefusalReason",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

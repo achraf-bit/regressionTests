@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Condition</name>
+   <tag></tag>
+   <elementGuidId>15c032d1-5774-4d59-aa9f-266257e01d73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.textarea.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dfc-dyn-root--edit-status-transition-form--conditions']/app-transition-conditions//mwl-text-input-autocomplete-container/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>576798ac-08cd-4290-9f36-34213397945c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Type @ to search...</value>
+      <webElementGuid>515fef91-ced9-4e25-a9d9-b10498e5290a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>60487c78-0aa1-416e-95cc-d976b5335603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textarea ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>40bc6a9b-a06f-453e-a0bf-ec41a79f00d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-dyn-root--edit-status-transition-form--conditions&quot;)/app-transition-conditions[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;transition-flex df-form-control-root big-content&quot;]/div[@class=&quot;row-flex ng-star-inserted&quot;]/div[@class=&quot;d-flex-ai-c generic-inputs__style&quot;]/mwl-text-input-autocomplete-container[1]/textarea[@class=&quot;textarea ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>965095aa-acda-4709-be74-bc21271e01bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-dyn-root--edit-status-transition-form--conditions']/app-transition-conditions/div/div[3]/div/mwl-text-input-autocomplete-container/textarea</value>
+      <webElementGuid>547946ff-7286-4a7b-ae20-323e7c898039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error message :'])[1]/following::textarea[1]</value>
+      <webElementGuid>beddd7af-733a-4366-a0ee-a297e6625222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condition :'])[1]/following::textarea[1]</value>
+      <webElementGuid>b466f241-aabb-4784-af81-a2e9daae1170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::textarea[2]</value>
+      <webElementGuid>dadd620c-7fcb-400d-91ed-b71ab605165e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::textarea[2]</value>
+      <webElementGuid>9bd96dd8-28ad-4a61-bd19-3bffd1b8ca9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>5e6f8ebc-fa62-4c08-a490-f4750124ccb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Type @ to search...']</value>
+      <webElementGuid>52615b19-4cf5-48e1-b6d9-4f31196de27b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

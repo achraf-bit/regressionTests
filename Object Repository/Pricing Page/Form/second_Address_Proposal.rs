@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>second_Address_Proposal</name>
+   <tag></tag>
+   <elementGuidId>c1ca4e20-4d0b-46ca-877a-48da80f5a236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-address-picker//div[@class=&quot;card ng-star-inserted&quot;][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>c65ec3a0-1286-473b-aeff-2c46b828d52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1664794179736</value>
+      <webElementGuid>74685ae2-0b67-4ba0-9974-34e414f7d85d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

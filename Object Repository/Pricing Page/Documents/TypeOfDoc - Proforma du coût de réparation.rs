@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TypeOfDoc - Proforma du coût de réparation</name>
+   <tag></tag>
+   <elementGuidId>f96e17c3-7a39-40c2-95b5-1a2a1ad7f19e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-documents//div[contains(@class, 'type-doc_wrapper') and .//div[text()[normalize-space() = &quot;Proforma du coût de réparation&quot;]]]//input[@type=&quot;file&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.upload-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>164d88bc-0a60-4c78-80a4-4c812d074174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>3bed2398-7e98-4ede-80a2-0e6957fae60c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upload-input</value>
+      <webElementGuid>8a83e869-c28e-409d-9980-63e750cc2573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fileDropContainer-147&quot;)/div[@class=&quot;col-md-12 padding-0&quot;]/div[@class=&quot;col-md-12 padding-0 expected-doc&quot;]/div[@class=&quot;margin-0-important col-md-12 text-doc-title ellipsis-item&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/input[@class=&quot;upload-input&quot;]</value>
+      <webElementGuid>ac75fc06-f8f3-440d-82b1-e768c847b5a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='fileDropContainer-147']/div/div/div/div[2]/input</value>
+      <webElementGuid>4256f903-0fa2-484a-a02a-7e7ae3876a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fileDropContainer-147']/div/div/div/div[2]/input</value>
+      <webElementGuid>847e9e82-2ded-45e1-ae03-9768dc56b3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-documents/div/div/div/div/div/div/div[2]/input</value>
+      <webElementGuid>45bea539-adb2-4660-8c68-406beeb02cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>42ce6971-cf40-4c06-a6a8-e60060fede99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

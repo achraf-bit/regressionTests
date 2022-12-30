@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select first option</name>
+   <tag></tag>
+   <elementGuidId>7969759a-2e91-40ac-bf62-590dff4cc14f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='dfc-item--settings-ags-form--unitOfMeasurement']/option[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>73ac992b-c73f-452f-a12d-a5d2606787c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1670408621370</value>
+      <webElementGuid>1e09cb8e-5138-41d1-b7f3-eabad00d7407</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

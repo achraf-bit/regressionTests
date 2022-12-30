@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close</name>
+   <tag></tag>
+   <elementGuidId>ca41c6f0-e341-4044-8797-c24af289c8ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.btn-icon.fa.fa-close.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-unit-form-details//i[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3034f123-2b27-419e-b21d-fd2e69db39f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-icon fa fa-close cursor-pointer</value>
+      <webElementGuid>74565eac-564f-4e9d-8a39-bae18e8a3908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;transport-details-root loader-content-container transparent-dark-loader&quot;]/div[@class=&quot;m-details-form ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right&quot;]/app-panel-right[1]/app-form-dynamic-panel[1]/div[@class=&quot;form-dynamic-panel ng-star-inserted&quot;]/app-unit-form-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;side-panel panel-root opened&quot;]/div[@class=&quot;margin-bottom-5 padding-0 justify-content-between side-panel-header&quot;]/div[@class=&quot;panel-buttons&quot;]/i[@class=&quot;btn-icon fa fa-close cursor-pointer&quot;]</value>
+      <webElementGuid>652f5bdc-4ee7-4a94-8c03-569bb4d2adec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-details/div/div/div[2]/div[3]/app-panel-right/app-form-dynamic-panel/div/app-unit-form-details/div/div/div/i[3]</value>
+      <webElementGuid>1468a0f0-fb3f-4c6c-9eca-e7d8f19a4431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-unit-form-details/div/div/div/i[3]</value>
+      <webElementGuid>ead62bbf-8811-496e-ae0e-65303e5f7078</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

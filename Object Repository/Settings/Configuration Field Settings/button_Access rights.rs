@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Access rights</name>
+   <tag></tag>
+   <elementGuidId>040cc908-e5c1-4723-a402-95ba9523c132</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='dfc-dyn-root--field-configuration-form--visibility']/app-visibility-section//p-inputswitch//span)[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>19eb23a3-1af8-428d-8f01-a4c899732473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1670495746929</value>
+      <webElementGuid>d2cdf0a7-610c-4cba-8341-461360e5296b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alert</name>
+   <tag></tag>
+   <elementGuidId>76d733e2-17a4-4670-b071-eec821aee048</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ui-tabpanel-0&quot;]/div/div[1]/div/app-notification-item/div[1]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-notification-item > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81e85e5a-cbfe-4fcb-bbf8-d2756351e45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MyTower / ESC-A16876 / Salaheddine Fatima Zahra sent you a Quotation Request ( STD-STANDARD ) MyTower / ESC-A16876 / Salaheddine Fatima Zahra sent you a Quotation Request ( STD-STANDARD ) 12/09/2022 16:43 </value>
+      <webElementGuid>70bd3674-d9f8-42b7-bf75-6d68fd40f8ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-tabpanel-2&quot;)/div[@class=&quot;notif-scroller ng-star-inserted&quot;]/div[@class=&quot;notify-notifs d-flex-ai-fs d-flex-w ng-star-inserted&quot;]/div[@class=&quot;notify-desc text-left width-100-percent&quot;]/app-notification-item[1]/div[1]</value>
+      <webElementGuid>c7165c4f-569c-4279-b2ee-43aa11718c07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-tabpanel-2']/div/div/div/app-notification-item/div</value>
+      <webElementGuid>0a0395c2-f01d-4a5a-ba27-c55c9dbff66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::div[6]</value>
+      <webElementGuid>d47a3fa9-1226-4408-8030-9329959d6974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts'])[1]/following::div[6]</value>
+      <webElementGuid>d9591f7e-8eab-4c83-bf93-5d60ff12207a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-notification-item/div</value>
+      <webElementGuid>373bb917-aea1-44ed-91df-b098a709d2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' MyTower / ESC-A16876 / Salaheddine Fatima Zahra sent you a Quotation Request ( STD-STANDARD ) MyTower / ESC-A16876 / Salaheddine Fatima Zahra sent you a Quotation Request ( STD-STANDARD ) 12/09/2022 16:43 ' or . = ' MyTower / ESC-A16876 / Salaheddine Fatima Zahra sent you a Quotation Request ( STD-STANDARD ) MyTower / ESC-A16876 / Salaheddine Fatima Zahra sent you a Quotation Request ( STD-STANDARD ) 12/09/2022 16:43 ')]</value>
+      <webElementGuid>0c379e0d-0848-4462-be57-0ffedda33ea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

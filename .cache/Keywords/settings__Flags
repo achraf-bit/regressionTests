@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "FA3F55D8D86AFAF387D3B86AFBB22D90",
+  "keywordClasses": [
+    {
+      "name": "settings.Flags",
+      "keywordMethods": [
+        {
+          "name": "addNewFlag",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editFlag",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteFlag",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

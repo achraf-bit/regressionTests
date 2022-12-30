@@ -11,17 +11,22 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
+      <initValue>'f.salaheddine@mytower.fr'</initValue>
+      <name>superadmin_1_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
       <initValue>'RoY/B8u3iefewiZcVmvnfw=='</initValue>
       <name>superadmin_1_password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'f.salaheddine@mytower.fr'</initValue>
-      <name>superadmin_1_user2name</name>
+      <initValue>'mytower-esc'</initValue>
+      <name>clientId</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'f.salaheddine@mytower.fr'</initValue>
-      <name>superadmin_1_username</name>
+      <initValue>'b38ad4aa-3770-4b19-a42b-a3279287b0c2'</initValue>
+      <name>clientSecret</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

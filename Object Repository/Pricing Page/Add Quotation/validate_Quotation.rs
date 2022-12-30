@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>validate_Quotation</name>
+   <tag></tag>
+   <elementGuidId>6e381ecb-4166-47a8-9ede-fc158322cc86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-details/div/div/div[2]/div[3]/app-panel-right/app-form-dynamic-panel/div/app-unit-form-details/div/div/div/i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.btn-icon.fa.fa-check.cursor-pointer.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>34875eaa-3e77-4b08-a205-8f6cea1e2171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-icon fa fa-check cursor-pointer ng-star-inserted</value>
+      <webElementGuid>05524951-ed0c-483e-9661-7338857ce326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Validate</value>
+      <webElementGuid>2fd05cea-c0a2-4981-8393-f4cfb36eea09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;transport-details-root loader-content-container transparent-dark-loader&quot;]/div[@class=&quot;m-details-form ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right&quot;]/app-panel-right[1]/app-form-dynamic-panel[1]/div[@class=&quot;form-dynamic-panel ng-star-inserted&quot;]/app-unit-form-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;side-panel panel-root opened&quot;]/div[@class=&quot;d-flex margin-bottom-5 padding-0 justify-content-between side-panel-header&quot;]/div[@class=&quot;panel-buttons&quot;]/i[@class=&quot;btn-icon fa fa-check cursor-pointer ng-star-inserted&quot;]</value>
+      <webElementGuid>30068297-83b2-4859-a472-ad665412991d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-details/div/div/div[2]/div[3]/app-panel-right/app-form-dynamic-panel/div/app-unit-form-details/div/div/div/i</value>
+      <webElementGuid>bc982a30-c9aa-4f96-8ce4-449dd5c944fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-unit-form-details/div/div/div/i</value>
+      <webElementGuid>44eb5ef2-9166-41c6-b53d-3927d6cd35ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Validate']</value>
+      <webElementGuid>fb71d1ef-545c-49bf-80d2-a524e8cb8520</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

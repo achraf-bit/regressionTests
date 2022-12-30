@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "9B6CC07CB4B051056BD645146A0DFFA9",
+  "keywordClasses": [
+    {
+      "name": "settings.IncidentCategory",
+      "keywordMethods": [
+        {
+          "name": "addIncidentCategory",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editIncidentCategory",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteIncidentCategory",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

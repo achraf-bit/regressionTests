@@ -23,7 +23,7 @@ import internal.GlobalVariable
 public class Login {
 	@Keyword
 	def loginSuperAdmin() {
-		login(GlobalVariable.superadmin_1_user2name, GlobalVariable.superadmin_1_password)
+		login(GlobalVariable.superadmin_1_username, GlobalVariable.superadmin_1_password)
 	}
 
 	def login(String username, String password) {

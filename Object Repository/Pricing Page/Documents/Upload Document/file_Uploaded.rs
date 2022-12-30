@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>file_Uploaded</name>
+   <tag></tag>
+   <elementGuidId>3bd04dec-eec0-4a00-b6d3-86c8ee346ef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'ellipsis-item text-center') and contains(@title, 'test')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ellipsis-item.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b240a66-632d-4452-b24c-da0ac1ce13ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ellipsis-item text-center</value>
+      <webElementGuid>f2e147dd-60f3-4f27-9273-2d3d19ce5e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>testChanel.txt</value>
+      <webElementGuid>8b14c00c-75b9-4f3b-87f0-38e56bd1fbd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> testChanel.txt </value>
+      <webElementGuid>03e9561a-03ec-4309-bb6d-fc3237519545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fileDropContainer-147&quot;)/div[@class=&quot;col-md-12 padding-0&quot;]/div[@class=&quot;col-md-12 padding-0 document-zone&quot;]/div[@class=&quot;padding-0 margin-0 col-md-12&quot;]/div[@class=&quot;padding-0 col-md-12&quot;]/div[@class=&quot;col-md-12 col-xs-12 padding-0-important uploaded-files ng-star-inserted&quot;]/div[@class=&quot;existed-items&quot;]/div[@class=&quot;existed-item ng-star-inserted&quot;]/span[@class=&quot;filename d-flex-ai-c&quot;]/div[@class=&quot;ellipsis-item text-center&quot;]</value>
+      <webElementGuid>2b1c430c-6d8a-4905-b276-26cb6b34316d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fileDropContainer-147']/div/div/div[2]/div/div/div/div/span/div</value>
+      <webElementGuid>cd58b757-667f-48a2-999b-ee5a3a69de9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse'])[1]/following::div[6]</value>
+      <webElementGuid>86c3dd36-3b28-46f3-bc96-aa11361abb4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BC'])[1]/following::div[8]</value>
+      <webElementGuid>488d84d2-3c7d-4059-bdff-f6f557c95be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Restriction Visibility'])[1]/preceding::div[2]</value>
+      <webElementGuid>a2bc14b9-f287-40ff-bc59-372b95a90852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse'])[2]/preceding::div[3]</value>
+      <webElementGuid>58cceb06-73cc-4b5f-a390-3646f8424d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='testChanel.txt']/parent::*</value>
+      <webElementGuid>eb0d19ff-c41f-4d37-8b13-9a134038ea58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span/div</value>
+      <webElementGuid>f6bcbc1e-7e4b-49a8-bc69-c9ff471dcea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'testChanel.txt' and (text() = ' testChanel.txt ' or . = ' testChanel.txt ')]</value>
+      <webElementGuid>67c297cc-b5c6-431b-8f52-af8a986104e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

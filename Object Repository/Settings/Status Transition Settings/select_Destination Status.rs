@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Destination Status</name>
+   <tag></tag>
+   <elementGuidId>b274c34e-6842-433e-962a-91547b23999f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dfc-item--edit-status-transition-form--destinationStatus > #dfc-item--edit-status-transition-form--destinationStatus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='dfc-item--edit-status-transition-form--destinationStatus']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dd654e65-3008-460a-a0d3-832a4ffe9292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dfc-item--edit-status-transition-form--destinationStatus</value>
+      <webElementGuid>92300623-7029-4b8b-b9b7-8f92b30108f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>destinationStatus</value>
+      <webElementGuid>70683631-1cb7-4462-acbc-dc44a72bc80a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-star-inserted ng-valid ng-touched</value>
+      <webElementGuid>b43f5ab8-a1c1-4d53-ae45-836462015735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test1test Name FR  test Name EN Waiting for pick upTransport on goingCompleted</value>
+      <webElementGuid>396f7e10-0d49-42b5-83dc-1a735e28cc58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-root--edit-status-transition-form--destinationStatus&quot;)/div[@id=&quot;dfc-item--edit-status-transition-form--destinationStatus&quot;]/select[@id=&quot;dfc-item--edit-status-transition-form--destinationStatus&quot;]</value>
+      <webElementGuid>757b57ae-8868-4c62-b46b-0ee8e11678df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='dfc-item--edit-status-transition-form--destinationStatus']</value>
+      <webElementGuid>4e2a9e91-953d-4112-afc9-15adccf72ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-item--edit-status-transition-form--destinationStatus']/select</value>
+      <webElementGuid>1686ccbd-55f9-4741-aedd-29d3b067fc8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination Status'])[2]/following::select[1]</value>
+      <webElementGuid>94cca1e3-f7d4-41eb-8ca5-6b866123d9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Module'])[2]/following::select[2]</value>
+      <webElementGuid>cdab831e-afa2-43cf-b968-cb0db9951b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::select[1]</value>
+      <webElementGuid>3ae1017b-d1dc-4d59-95eb-5ba0d162573a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oui'])[1]/preceding::select[1]</value>
+      <webElementGuid>2d60cee1-4365-4944-9645-8321a1d17083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//df-form-control[4]/div/div/select</value>
+      <webElementGuid>2d0f7c58-3f29-43b6-83e0-54d8f573d79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'dfc-item--edit-status-transition-form--destinationStatus' and @name = 'destinationStatus' and (text() = 'test1test Name FR  test Name EN Waiting for pick upTransport on goingCompleted' or . = 'test1test Name FR  test Name EN Waiting for pick upTransport on goingCompleted')]</value>
+      <webElementGuid>86a46f5d-1666-41d7-808e-437d2f7f5e16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

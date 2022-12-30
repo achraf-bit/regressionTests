@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "1809E8DB9E5BD94BA37B5F2821EE2A1F",
+  "keywordClasses": [
+    {
+      "name": "settings.TransportaionPlans",
+      "keywordMethods": [
+        {
+          "name": "addTransportaionPlanValorization",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteTransportationPlanValorization",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyVisibiltyOfVignetteCarrierInTR",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

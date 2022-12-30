@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Help text</name>
+   <tag></tag>
+   <elementGuidId>2fae6631-57e4-44c2-8f40-c3a8a9a9d48e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ql-editor.ql-blank</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dfc-dyn-root--field-configuration-form--helpText']//p-editor//p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>509fcfc5-8389-4f2a-a4f7-a7cc48676de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ql-editor ql-blank</value>
+      <webElementGuid>92b6809a-d334-4528-a478-8aec874830aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gramm</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e2c04578-8d29-43b9-a849-5f9a97dc45fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d7d4e4ff-f5a6-4057-900f-ebf60543049e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-dyn-root--field-configuration-form--helpText&quot;)/app-help-text[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;df-form-control-root&quot;]/app-advanced-editor[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/p-editor[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ui-widget ui-editor-container ui-corner-all&quot;]/div[@class=&quot;ui-editor-content ql-container ql-snow&quot;]/div[@class=&quot;ql-editor ql-blank&quot;]</value>
+      <webElementGuid>91255543-2fba-4c67-8706-612e58c50d9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-dyn-root--field-configuration-form--helpText']/app-help-text/div/app-advanced-editor/p-editor/div/div[2]/div</value>
+      <webElementGuid>62bdb925-ff6c-4d16-a4f5-a9a08cc0a431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help text'])[1]/following::div[4]</value>
+      <webElementGuid>85d44b19-e7f3-481c-8602-df5389703d26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting type'])[1]/following::div[9]</value>
+      <webElementGuid>62ea16bc-7c77-4bd0-8aed-cb5ed6c409df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default value'])[1]/preceding::div[4]</value>
+      <webElementGuid>e270f2d3-39cc-462a-86a5-0fe8269e9654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Column size'])[1]/preceding::div[10]</value>
+      <webElementGuid>336153d2-7570-4463-8672-229002943954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-editor/div/div[2]/div</value>
+      <webElementGuid>0c733817-f3ac-46cd-a232-bddfde99fb4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

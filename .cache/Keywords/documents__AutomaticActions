@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "4BE3B731B8063BE4EEA707542E3AEAED",
+  "keywordClasses": [
+    {
+      "name": "documents.AutomaticActions",
+      "keywordMethods": [
+        {
+          "name": "verifyCertificatOriginFranceExpected",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyCitesFranceExpected",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyProformaSpFranceExpected",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyDeliveryNoteFranceExpected",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

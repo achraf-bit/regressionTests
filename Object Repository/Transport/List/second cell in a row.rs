@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>second cell in a row</name>
+   <tag></tag>
+   <elementGuidId>de18a7ee-ff6b-49f9-a5f1-92f6ddf66518</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ag-grid-angular//span[@class=&quot;ag-cell-value&quot;])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>05a7d929-280b-4321-9f7a-f7bae068885c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1669044046944</value>
+      <webElementGuid>f8aeeb25-11ea-49df-99eb-91d886a67f03</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

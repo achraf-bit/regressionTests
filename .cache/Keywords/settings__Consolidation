@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "6A9E235C7A2B0C3B227D0FECD8927ED6",
+  "keywordClasses": [
+    {
+      "name": "settings.Consolidation",
+      "keywordMethods": [
+        {
+          "name": "addNewConsolidation",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editConsolidation",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteConsolidation",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

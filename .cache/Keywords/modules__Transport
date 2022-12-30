@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "A7718E3DA9D4E021B75CCAEE79490E69",
+  "keywordFileContentHash": "35E8E4318394C9765E552B925A175252",
   "keywordClasses": [
     {
       "name": "modules.Transport",
@@ -69,6 +69,16 @@
               }
             }
           ],
+          "javadoc": ""
+        },
+        {
+          "name": "accessToFirstTrDetails",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "cancelTrAfterConfirmation",
+          "parameters": [],
           "javadoc": ""
         },
         {

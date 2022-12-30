@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TypeOfDoc - Certificat Origine</name>
+   <tag></tag>
+   <elementGuidId>c7b67114-578d-4cc9-8a44-ee60dc76d0e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-documents//div[contains(@class, 'type-doc_wrapper') and .//div[text()[normalize-space() = &quot;Certificat d'origine&quot;]]]//input[@type=&quot;file&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.padding-0.expected-doc > div.margin-0-important.col-md-12.text-doc-title.ellipsis-item > div.col-md-12.ng-star-inserted > input.upload-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>00af03d6-73bc-4023-8fed-9072fe6c1ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>0ca72435-82ba-482d-9bdc-cef5415d0c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upload-input</value>
+      <webElementGuid>d66ebd6f-fcf5-49ff-81fa-3919256ba112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fileDropContainer-151&quot;)/div[@class=&quot;col-md-12 padding-0&quot;]/div[@class=&quot;col-md-12 padding-0 expected-doc&quot;]/div[@class=&quot;margin-0-important col-md-12 text-doc-title ellipsis-item&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/input[@class=&quot;upload-input&quot;]</value>
+      <webElementGuid>8ae47269-53c6-4c75-84f9-7b2b78f2abe9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='file'])[2]</value>
+      <webElementGuid>18883591-5632-4762-8a8c-0decd4a65a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fileDropContainer-151']/div/div/div/div[2]/input</value>
+      <webElementGuid>9d539079-06ec-4ac0-9b86-d0bbc87fc00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-documents/div/div/div[2]/div/div/div/div[2]/input</value>
+      <webElementGuid>9150113e-8f29-4419-80f7-bb5a811d6ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>b5a49b25-04b3-43b4-9596-37510e73a474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

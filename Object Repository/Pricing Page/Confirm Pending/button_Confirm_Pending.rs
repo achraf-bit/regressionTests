@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm_Pending</name>
+   <tag></tag>
+   <elementGuidId>19a285ac-cd1b-49b1-8de0-b47a29e673ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='actionbutton-confirm-draft']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actionbutton-confirm-draft > span.sidebar-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>293c2786-c20f-4ea2-a873-ab58ce7324c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-title</value>
+      <webElementGuid>bc7a5f75-99f2-4868-87c1-f37bb2a9de7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm pending</value>
+      <webElementGuid>98a954cd-e344-4e7d-9449-18aa292e58aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionbutton-confirm-draft&quot;)/span[@class=&quot;sidebar-title&quot;]</value>
+      <webElementGuid>77385c95-a614-49f7-b447-2bb61d8ef29a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='actionbutton-confirm-draft']/span[2]</value>
+      <webElementGuid>546383fb-02fd-4141-b95e-242575877744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::span[2]</value>
+      <webElementGuid>0379ef35-65d7-4a08-b3b7-4afaeedfcda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESC-A16871'])[1]/following::span[4]</value>
+      <webElementGuid>508d0052-3504-4f15-81e8-a7e263e7be45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm quote'])[1]/preceding::span[2]</value>
+      <webElementGuid>63a9d85a-ddc4-46cf-8100-2fd6ee5327fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[4]</value>
+      <webElementGuid>b316f683-cca5-47d9-b845-9ecf2a258fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm pending']/parent::*</value>
+      <webElementGuid>075f8b01-d3b5-4752-80e7-41dab5d57127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/span[2]</value>
+      <webElementGuid>b8b047e8-1e75-4c2b-87a2-e864b1a437b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Confirm pending' or . = 'Confirm pending')]</value>
+      <webElementGuid>f8912ed1-8d02-4c22-a7ee-eab6e6586454</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

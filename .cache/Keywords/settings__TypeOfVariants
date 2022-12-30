@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "FF14E90B6A4E1C085D5B7336C92E92DA",
+  "keywordClasses": [
+    {
+      "name": "settings.TypeOfVariants",
+      "keywordMethods": [
+        {
+          "name": "addTypeOfVariants",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editTypeOfVariants",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteTypeOfVariants",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

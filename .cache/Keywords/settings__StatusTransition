@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "5C4B72A04353AAA894C74F92E09CF01D",
+  "keywordClasses": [
+    {
+      "name": "settings.StatusTransition",
+      "keywordMethods": [
+        {
+          "name": "addNewStatusTransition",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editStatusTransition",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteStatusTransition",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

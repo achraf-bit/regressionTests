@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Consolidation</name>
+   <tag></tag>
+   <elementGuidId>b6d81836-1cc5-40e3-8e25-367dd3da9593</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel-left-consolidation-section']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#panel-left-consolidation-section > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>77725995-5dc9-4f57-bb91-f86ff26d80bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consolidation</value>
+      <webElementGuid>05888fbf-f3df-4d02-974f-aa3b8591df09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-left-consolidation-section&quot;)/span[1]</value>
+      <webElementGuid>06c03d99-07c8-45b8-84a7-ab3627932f0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-left-consolidation-section']/span</value>
+      <webElementGuid>471c9ded-a636-457b-9296-1dabc2791f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STANDARD'])[1]/following::span[1]</value>
+      <webElementGuid>1d9f6746-a01d-4a71-a659-02a09a5a59e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service level:'])[1]/following::span[2]</value>
+      <webElementGuid>b98880d6-ba77-4ba5-a5d7-0fc740dd22ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule name :'])[1]/preceding::span[1]</value>
+      <webElementGuid>5589307c-4c9e-41b9-95a9-b96687fc6a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule 1'])[1]/preceding::span[1]</value>
+      <webElementGuid>8a181569-d627-4900-b2c0-bc95197bd78b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consolidation']/parent::*</value>
+      <webElementGuid>4cc8a569-4507-4650-90f7-aba0844729af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>dd1b655e-a0d5-48e7-a551-1b15a63bb001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Consolidation' or . = 'Consolidation')]</value>
+      <webElementGuid>e00b85d5-7b63-4410-9f5b-a30a60c8a572</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

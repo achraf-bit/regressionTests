@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E8A5D72B6351007FF1ADB5BC7D3E7334",
+  "keywordClasses": [
+    {
+      "name": "auth.Oauth2",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

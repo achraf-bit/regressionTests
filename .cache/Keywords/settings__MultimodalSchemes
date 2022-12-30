@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "3F3A0A5B5400DC821BF7B42610395ABA",
+  "keywordClasses": [
+    {
+      "name": "settings.MultimodalSchemes",
+      "keywordMethods": [
+        {
+          "name": "addNewMultimodalSchemes",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editMultimodalSchemes",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteMultimodalSchemes",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

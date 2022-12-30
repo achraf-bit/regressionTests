@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "5998067F9F294DCEB6802FB8161EC4AA",
+  "keywordClasses": [
+    {
+      "name": "settings.Incoterms",
+      "keywordMethods": [
+        {
+          "name": "addNewIncoterm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editIncoterm",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteIncoterm",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

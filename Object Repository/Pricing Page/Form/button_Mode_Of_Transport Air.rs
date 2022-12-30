@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mode_Of_Transport Air</name>
+   <tag></tag>
+   <elementGuidId>3942fd9a-47cf-4bd4-a3de-62cca66026a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dfc-dyn-root--transport-form--transportMethod']/app-mode-transport-form-control//div[@class=&quot;mode-item ng-star-inserted&quot;][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mode-item.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e320bb3-76d2-4096-bd48-50eafe4c3e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mode-item ng-star-inserted</value>
+      <webElementGuid>673c3fd8-80a8-4208-be7a-370696558f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Air</value>
+      <webElementGuid>7daab78d-0b18-4a13-a80f-4ef08b6d45ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfc-dyn-root--transport-form--transportMethod&quot;)/app-mode-transport-form-control[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;df-form-control-root big-content&quot;]/div[@class=&quot;df-form-control-item&quot;]/div[@class=&quot;mode-item ng-star-inserted&quot;]</value>
+      <webElementGuid>388e6e4a-71c4-4e91-bbb0-602f958f3828</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dfc-dyn-root--transport-form--transportMethod']/app-mode-transport-form-control/div/div/div</value>
+      <webElementGuid>be3be484-86fe-47ef-8473-c4afec7c7320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mode of transport'])[1]/following::div[2]</value>
+      <webElementGuid>c7640d5e-b72b-475e-b4ae-63bbaa501bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::div[8]</value>
+      <webElementGuid>1d4d385e-1bff-4ee3-a92d-28c0b27bd4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sea'])[1]/preceding::div[1]</value>
+      <webElementGuid>a0431156-70d3-404d-ae16-e3207b395221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-mode-transport-form-control/div/div/div</value>
+      <webElementGuid>59528a2c-c940-4a37-9346-9a81c111fa3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Air' or . = 'Air')]</value>
+      <webElementGuid>39b73021-7ad0-46dd-a5cc-ca0b5a6782ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

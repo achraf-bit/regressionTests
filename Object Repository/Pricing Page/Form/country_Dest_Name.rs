@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>country_Dest_Name</name>
+   <tag></tag>
+   <elementGuidId>308d6d45-89b5-48b8-82c9-27317dafbde4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shipping-infos-section']//app-overview-step-shippinginfos//div[@class=&quot;col-xs-4 text-center&quot;][2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-4.text-center > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>842fe2d0-74a7-4b5f-b92f-bdb5c9aabea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>64941547-d349-4e74-bb6e-aa36043b90ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Vémars  (France) </value>
+      <webElementGuid>69be3315-3766-4ee5-8dce-e3d612fa1afe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipping-infos-section&quot;)/div[@class=&quot;content ng-star-inserted&quot;]/app-overview-step-shippinginfos[1]/div[@class=&quot;flex-container&quot;]/div[@class=&quot;origin-dest__contents&quot;]/div[@class=&quot;col-xs-4 text-center&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>500c4d5f-0a05-4daa-84a9-c6fee00aec41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shipping-infos-section']/div/app-overview-step-shippinginfos/div/div/div/span</value>
+      <webElementGuid>84087c3f-57f3-48d2-b1f5-7e6c919b8f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping informations'])[1]/following::span[1]</value>
+      <webElementGuid>8ee007bf-fbc4-4021-8b3e-23c984e2a645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicated from : ESC-A17224'])[1]/following::span[2]</value>
+      <webElementGuid>ebda702d-4a41-4953-881f-b4e456859f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[1]/preceding::span[2]</value>
+      <webElementGuid>c5514c5a-e113-4b30-bc14-7fe9c8aa19f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-overview-step-shippinginfos/div/div/div/span</value>
+      <webElementGuid>14b2764a-897f-41c3-bf0b-363d54f21955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Vémars  (France) ' or . = ' Vémars  (France) ')]</value>
+      <webElementGuid>2f690366-703b-47f7-a2ca-620b141c18f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

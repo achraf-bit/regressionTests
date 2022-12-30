@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "4B40D41F5E091976C83086FF890F854D",
+  "keywordClasses": [
+    {
+      "name": "settings.CostsItems",
+      "keywordMethods": [
+        {
+          "name": "addCostItem",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editCostItem",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteCostItem",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
